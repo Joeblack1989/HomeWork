@@ -1,0 +1,15 @@
+C:\Users\Азазель\Desktop\Study\циклы\obj\Debug\net6.0\циклы.csproj.AssemblyReference.cache
+C:\Users\Азазель\Desktop\Study\циклы\obj\Debug\net6.0\циклы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Азазель\Desktop\Study\циклы\obj\Debug\net6.0\циклы.AssemblyInfoInputs.cache
+C:\Users\Азазель\Desktop\Study\циклы\obj\Debug\net6.0\циклы.AssemblyInfo.cs
+C:\Users\Азазель\Desktop\Study\циклы\obj\Debug\net6.0\циклы.csproj.CoreCompileInputs.cache
+C:\Users\Азазель\Desktop\Study\циклы\bin\Debug\net6.0\циклы.exe
+C:\Users\Азазель\Desktop\Study\циклы\bin\Debug\net6.0\циклы.deps.json
+C:\Users\Азазель\Desktop\Study\циклы\bin\Debug\net6.0\циклы.runtimeconfig.json
+C:\Users\Азазель\Desktop\Study\циклы\bin\Debug\net6.0\циклы.dll
+C:\Users\Азазель\Desktop\Study\циклы\bin\Debug\net6.0\циклы.pdb
+C:\Users\Азазель\Desktop\Study\циклы\obj\Debug\net6.0\циклы.dll
+C:\Users\Азазель\Desktop\Study\циклы\obj\Debug\net6.0\refint\циклы.dll
+C:\Users\Азазель\Desktop\Study\циклы\obj\Debug\net6.0\циклы.pdb
+C:\Users\Азазель\Desktop\Study\циклы\obj\Debug\net6.0\циклы.genruntimeconfig.cache
+C:\Users\Азазель\Desktop\Study\циклы\obj\Debug\net6.0\ref\циклы.dll
