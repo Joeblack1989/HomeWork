@@ -1,0 +1,15 @@
+C:\Users\Азазель\Desktop\Study\arguments\bin\Debug\net6.0\arguments.exe
+C:\Users\Азазель\Desktop\Study\arguments\bin\Debug\net6.0\arguments.deps.json
+C:\Users\Азазель\Desktop\Study\arguments\bin\Debug\net6.0\arguments.runtimeconfig.json
+C:\Users\Азазель\Desktop\Study\arguments\bin\Debug\net6.0\arguments.dll
+C:\Users\Азазель\Desktop\Study\arguments\bin\Debug\net6.0\arguments.pdb
+C:\Users\Азазель\Desktop\Study\arguments\obj\Debug\net6.0\arguments.csproj.AssemblyReference.cache
+C:\Users\Азазель\Desktop\Study\arguments\obj\Debug\net6.0\arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Азазель\Desktop\Study\arguments\obj\Debug\net6.0\arguments.AssemblyInfoInputs.cache
+C:\Users\Азазель\Desktop\Study\arguments\obj\Debug\net6.0\arguments.AssemblyInfo.cs
+C:\Users\Азазель\Desktop\Study\arguments\obj\Debug\net6.0\arguments.csproj.CoreCompileInputs.cache
+C:\Users\Азазель\Desktop\Study\arguments\obj\Debug\net6.0\arguments.dll
+C:\Users\Азазель\Desktop\Study\arguments\obj\Debug\net6.0\refint\arguments.dll
+C:\Users\Азазель\Desktop\Study\arguments\obj\Debug\net6.0\arguments.pdb
+C:\Users\Азазель\Desktop\Study\arguments\obj\Debug\net6.0\arguments.genruntimeconfig.cache
+C:\Users\Азазель\Desktop\Study\arguments\obj\Debug\net6.0\ref\arguments.dll
