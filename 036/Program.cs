@@ -26,5 +26,5 @@ Console.WriteLine();
 //Линейный поиск
 int j=0;
 while (j<a.Length && a[j]!=f) j++;
-if (j==a.Length) Console.WriteLine("Not fFound");
+if (j==a.Length) Console.WriteLine("Not Found");
 else Console.WriteLine($"Element {f} founded at {j}"); 
