@@ -1,7 +1,24 @@
 ﻿//Task_44
 //Написать программу преобразования десятичного числа в двоичное
 
-int n=16;//1111
+int n=456;//1111
+
+Console.WriteLine(DecToBin (n));
+
+string DecToBin(int n)
+{
+    if (n==0) return "0";
+    string s="";
+    while (n!=0)
+    {
+        s=(n%2).ToString()+s;    
+        n/=2;//n=n/2
+    }
+    return s;
+}
+
+
+/*int n=16;//1111
 
 for(int i=0;i<20;i++)
     System.Console.WriteLine($"{i} {DecToAny(i,15)}");
@@ -34,3 +51,4 @@ string DecToAny(int n,int @base)
     }
     return s;
 }
+*/
