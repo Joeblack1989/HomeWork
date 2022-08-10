@@ -5,7 +5,14 @@ intersection ();
 
 void intersection(int b1=1, int b2=2, int k1=3, int k2=4)
 {
-int x=(b2-b1)/(k1-k2);
-int y= k1*((b2-b1)/(k1-k2))+b1;
-Console.WriteLine($" Точка пересечения двух заданных прямых: X = {x}; Y = {y} ");
+if (k1==k2)
+    {
+    Console.WriteLine ("Заданные прямые не пересекаются");
+    }
+    else 
+    {
+    int x=(b2-b1)/(k1-k2);
+    int y= k1*((b2-b1)/(k1-k2))+b1;
+    Console.WriteLine($" Точка пересечения двух заданных прямых: X = {x}; Y = {y} ");
+    }       
 }

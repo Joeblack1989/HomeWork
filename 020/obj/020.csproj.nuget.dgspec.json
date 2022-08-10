@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Азазель\\Desktop\\Study\\020\\020.csproj": {}
+    "C:\\Users\\User\\Documents\\Учеба\\Study\\HomeWork\\020\\020.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Азазель\\Desktop\\Study\\020\\020.csproj": {
+    "C:\\Users\\User\\Documents\\Учеба\\Study\\HomeWork\\020\\020.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Азазель\\Desktop\\Study\\020\\020.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Учеба\\Study\\HomeWork\\020\\020.csproj",
         "projectName": "020",
-        "projectPath": "C:\\Users\\Азазель\\Desktop\\Study\\020\\020.csproj",
-        "packagesPath": "C:\\Users\\Азазель\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Азазель\\Desktop\\Study\\020\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\Учеба\\Study\\HomeWork\\020\\020.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Учеба\\Study\\HomeWork\\020\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Азазель\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
